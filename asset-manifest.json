@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-06-tabs/static/css/main.cf38550b.css",
+    "main.js": "/react-06-tabs/static/js/main.fd028172.js",
+    "index.html": "/react-06-tabs/index.html",
+    "main.cf38550b.css.map": "/react-06-tabs/static/css/main.cf38550b.css.map",
+    "main.fd028172.js.map": "/react-06-tabs/static/js/main.fd028172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.fd028172.js"
+  ]
+}
